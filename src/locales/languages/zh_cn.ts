@@ -7,9 +7,9 @@ export const zh_CN: Translation = {
   [key.copy_right_license]: "许可证",
 
   [key.nav_bar_home]: "首页",
-  [key.nav_bar_archive]: "归档",
+  [key.nav_bar_categories]: "类别",
+  [key.nav_bar_tags]: "标签",
   [key.nav_bar_about]: "关于",
-  [key.nav_bar_github]: "GitHub",
   [key.nav_bar_search_placeholder]: "搜索",
 
   [key.post_card_words]: "字",

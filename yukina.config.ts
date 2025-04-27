@@ -18,16 +18,16 @@ const YukinaConfig: Configuration = {
       href: "/",
     },
     {
-      nameKey: I18nKeys.nav_bar_archive,
+      nameKey: I18nKeys.nav_bar_categories,
       href: "/archive",
+    },
+    {
+      nameKey: I18nKeys.nav_bar_tags,
+      href: "/tags",
     },
     {
       nameKey: I18nKeys.nav_bar_about,
       href: "/about",
-    },
-    {
-      nameKey: I18nKeys.nav_bar_github,
-      href: "https://github.com/WhitePaper233/yukina",
     },
   ],
 
